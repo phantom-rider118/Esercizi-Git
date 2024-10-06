@@ -1,0 +1,1 @@
+Esercizio Guidato di Git
